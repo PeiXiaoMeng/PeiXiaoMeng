@@ -18,12 +18,8 @@
 </div> -->
 <!--Intro start-->
 <ul>
-<li style="list-style: none;">
 <p>🔭 我目前是一名前端攻城狮，开源爱好者，擅长<strong>Vue, React, Nodejs, TypeScript, Mysql</strong></p>
-</li>
-<li style="list-style: none;">
-  <p>&nbsp;&nbsp;&nbsp;&nbsp; vue-vine</p>
-</li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; vue-vine</p>
 <!-- <li> -->
 <!-- <li>
 <p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
