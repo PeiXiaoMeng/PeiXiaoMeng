@@ -62,11 +62,11 @@
 </tbody></table>
 <!--- stats (end) -->
 <!--- trophy (start) -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=1010nishant&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
     </a>
-</div>
+</div> -->
 <!--- trophy (start) -->
 <p></p>        
 <!--- stats (end) -->
@@ -98,11 +98,11 @@
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
 </p> -->
 <!--profile visit count-->
-<div align="center">
+<!-- <div align="center">
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
-</div>
+</div> -->
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
-<p>Credit: <a href="https://github.com/1010nishant">1010nishant</a></p>
+<!-- <p>Credit: <a href="https://github.com/1010nishant">1010nishant</a></p> -->
 <p>Last Edited on: 29/4/2023</p> 
