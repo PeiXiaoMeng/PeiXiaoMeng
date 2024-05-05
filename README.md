@@ -47,6 +47,7 @@
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PeiXiaoMeng&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
   <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeiXiaoMeng&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="PeiXiaoMeng">
   <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PeiXiaoMeng&amp;theme=dark&amp;hide_border=false">  -->
 </td>
 <!-- <td width="50%" align="center">
