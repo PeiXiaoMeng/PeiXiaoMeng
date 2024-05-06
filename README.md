@@ -18,7 +18,7 @@
 </div> -->
 <!--Intro start-->
 <ul>
-<p>🔭 我目前是一名前端攻城狮，开源爱好者，擅长<strong>Vue, React, Nodejs, TypeScript, Mysql</strong></p>
+<p>🔭 我是一名前端攻城狮，开源爱好者，擅长<strong>Vue, React, Nodejs, TypeScript, Mysql</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; vue-vine</p>
 <!-- <li> -->
 <!-- <li>
@@ -45,9 +45,12 @@
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PeiXiaoMeng&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-<!--   <br><br> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeiXiaoMeng&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="PeiXiaoMeng">
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=PeiXiaoMeng&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeiXiaoMeng&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="PeiXiaoMeng"> -->
+
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=PeiXiaoMeng&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="PeiXiaoMeng's GitHub Stats"> 
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeiXiaoMeng&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
   <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PeiXiaoMeng&amp;theme=dark&amp;hide_border=false">  -->
 </td>
 <!-- <td width="50%" align="center">
