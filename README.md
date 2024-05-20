@@ -19,6 +19,7 @@
 <!--Intro start-->
 <ul>
 <p>🔭 我是一名前端攻城狮，开源爱好者，擅长<strong>Vue, React, Nodejs, TypeScript, Mysql</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; taro-ui</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; vue-vine</p>
 <!-- <li> -->
 <!-- <li>
